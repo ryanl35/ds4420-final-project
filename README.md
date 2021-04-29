@@ -9,5 +9,6 @@ Final Project for my Data Mining & Machine Learning II class analyzing a publicl
 - SVM
 - Linear Regression
 
+** sometimes running all of the code returns weird/high varying results so I included a copy of the code and its resulting cells within the GitHub. However, it is possible to run the code and get the results reflected in the report after different iterations. **
 
 Ryan Liang
